@@ -12,4 +12,4 @@ do {
 
 Contador = 0
 
-alert("O Produto anotado foi " + Produto + ".")
+alert("Os produtos anotados foram: " + Produto + ".")   
